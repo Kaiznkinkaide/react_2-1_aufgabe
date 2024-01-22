@@ -1,0 +1,11 @@
+nav a {
+    color: white;
+    background-color: aqua;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:active {
+    background-color: red;
+}
